@@ -1,0 +1,27 @@
+[
+  {
+    "id": "001",
+    "sender": "angry_client@example.com",
+    "subject": "Missing my delivery!",
+    "body": "I ordered your product 3 weeks ago and it is still not here. I want a refund right now. My credit card ends in 1234."
+  },
+  {
+    "id": "002",
+    "sender": "curious_user@example.com",
+    "subject": "Question about pricing",
+    "body": "Hello, do you offer an enterprise tier for your automation software? Thank you."
+  },
+  {
+    "id": "003",
+    "sender": "spammer@junk.com",
+    "subject": "You won a prize!",
+    "body": "Click this link to claim your free gift card!"
+  },
+  {
+    "id": "004",
+    "sender": "another_user@example.com",
+    "subject": "Enterprise cost?",
+    "body": "Hi, what is the price for the enterprise tier software?"
+  }
+]
+

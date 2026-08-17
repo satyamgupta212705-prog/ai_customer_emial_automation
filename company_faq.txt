@@ -1,0 +1,5 @@
+Company Name: Acme Automation Agency
+Business Hours: Monday to Friday, 9 AM to 5 PM EST.
+Refund Policy: We offer a full refund within 30 days of purchase if the product has not been deployed to production.
+Enterprise Pricing: Our Enterprise Tier costs $500/month and includes dedicated support, custom AI models, and unlimited email routing.
+Shipping: Physical hardware deliveries take 2-3 weeks.

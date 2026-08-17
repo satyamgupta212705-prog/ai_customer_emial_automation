@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-openrouter
+langchain-huggingface
+langchain-chroma
+chromadb
+python-dotenv
+pydantic
+presidio-analyzer
+presidio-anonymizer
+spacy
+streamlit
+pandas
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+sentence-transformers

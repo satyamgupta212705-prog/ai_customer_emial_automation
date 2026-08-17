@@ -1,0 +1,8 @@
+.env
+credentials.json
+token.json
+__pycache__/
+chroma_db/
+faq_cache_db/
+email/
+email_analytics.db
